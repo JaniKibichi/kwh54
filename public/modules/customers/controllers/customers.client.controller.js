@@ -120,6 +120,7 @@ customersApp.controller('CustomersCreateController', ['$scope', 'Customers','Not
 
 customersApp.controller('CustomersEditController', ['$scope', 'Customers',
 	function($scope, Customers) {
+
 		// Update existing Customer
 		this.update = function(updatedCustomer) {
 			var customer = updatedCustomer;

@@ -14,3 +14,8 @@ text-align: left;
 .text-pink{
 	color: #ec407a;
 }
+
+.cust-padding{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
